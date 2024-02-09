@@ -1,7 +1,7 @@
 <?php
 // Change These 3
-$username = "trigonometry";
-$password = "photosynthesis";
+$username = "43";
+$password = "34";
 $redir_location = "liber/";
 
 $postuser = $_POST['user'] ?? "";
