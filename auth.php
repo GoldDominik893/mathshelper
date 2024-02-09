@@ -2,7 +2,7 @@
 // Change These 3
 $username = "43";
 $password = "34";
-$redir_location = "liber/";
+$redir_location = "//google.com";
 
 $postuser = $_POST['user'] ?? "";
 $postpass = $_POST['pass'] ?? "";
